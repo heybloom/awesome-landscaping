@@ -1,5 +1,7 @@
 # Awesome Landscaping [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome Landscaping Banner](awesome_landscaping_banner.jpg)
+
 > A curated list of paid software, open-source tools, plant databases, and design applications for landscaping and lawn care businesses.
 
 Landscaping businesses span several specialized roles, from field operations and site bidding to complex 2D/3D design and plant selection. This repository compiles the best tools available—ranging from industry-standard paid suites to flexible open-source projects—to help landscaping companies grow and run efficiently.
