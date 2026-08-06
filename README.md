@@ -86,6 +86,7 @@ Lead tracking, customer communications, marketing automation, and customer suppo
 *   [Chatwoot](https://www.chatwoot.com) - Open-source customer engagement suite for real-time support and communications. [Open Source]
 *   [HubSpot](https://www.hubspot.com) - Free CRM with marketing hubs for managing leads and client interactions. [Freemium]
 *   [SuiteCRM](https://suitecrm.com) - Highly customizable open-source CRM for tracking leads, customers, and communications. [Open Source]
+*   [Workforce Wave](https://www.workforcewave.com) - AI voice agent that answers inbound calls, books appointments, and captures leads after hours for service businesses. [Commercial]
 
 ---
 
