@@ -28,6 +28,7 @@ All-in-one platforms for scheduling, dispatching, invoicing, routing, and field 
 *   [Aspire](https://www.youraspire.com) - Enterprise-grade landscape business management platform for mid-to-large commercial and residential companies. [Commercial]
 *   [CompanyCam](https://companycam.com) - GPS-tagged photo documentation and team collaboration tool built for field contractors. [Freemium]
 *   [HeyBloom](https://heybloom.ai) - AI-powered scheduling, marketing, and client manager built for landscaping. Includes a free plan. [Freemium]
+*   [HeyBloom Invoice Generator](https://www.heybloom.ai/tools/free-invoice-generator) - Free browser-based invoice generator for creating print-ready client invoices. [Free]
 *   [Jobber](https://getjobber.com) - All-in-one client management, estimation, scheduling, invoicing, and crew dispatching software. [Commercial]
 *   [Kickserv](https://www.kickserv.com) - Simple scheduling, dispatching, and invoicing software for service contractors. [Freemium]
 *   [Lawn Buddy](https://lawnbuddy.com) - Simple mobile app for lawn care scheduling, estimates, and business operations. [Commercial]
@@ -63,6 +64,8 @@ Tools for calculating material quantities, blueprint measurements, and analyzing
 
 *   [Active Takeoff](https://www.activetakeoff.com) - Easy-to-use digital construction takeoff and estimation software. [Commercial]
 *   [Google Earth Pro](https://www.google.com/earth/about/versions/#earth-pro) - Free desktop software for detailed satellite imagery, measurements, and site evaluation. [Free]
+*   [HeyBloom Bid Estimator](https://www.heybloom.ai/tools/estimator) - Regional landscape and lawn care cost bid estimator with crowdsourced wage, dump fee, and material cost indexes. [Free]
+*   [HeyBloom Property Size Estimator](https://www.heybloom.ai/tools/free-property-size-estimator) - Satellite-based lot and square footage measurement tool for calculating lawn, mulch, and hardscape areas. [Free]
 *   [OpenStreetMap](https://www.openstreetmap.org) - Collaborative open-world map, useful for exporting vector geographic data. [Open Source]
 *   [QGIS](https://www.qgis.org) - A free and open-source Geographic Information System (GIS) to create, edit, and visualize geospatial data. [Open Source]
 *   [Stack Takeoff](https://www.stackct.com) - Cloud-based takeoff and estimating tool for measuring blueprints and plans. [Commercial]
