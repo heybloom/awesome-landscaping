@@ -42,6 +42,7 @@ All-in-one platforms for scheduling, dispatching, invoicing, routing, and field 
 
 Tools for visual planning, drafting, spatial rendering, and showing designs to customers.
 
+*   [Arden](https://justarden.com) - Preview garden and landscape styles on a photo of a real outdoor space. [Freemium]
 *   [AutoCAD Land F/X](https://www.landfx.com) - Advanced CAD plug-in that streamlines planting, irrigation, and hardscape design. [Commercial]
 *   [Blender](https://www.blender.org) - Free and open-source 3D creation suite, excellent for high-end landscape modeling and architectural rendering. [Open Source]
 *   [FreeCAD](https://www.freecad.org) - Open-source parametric 3D modeller, useful for precise hardscape engineering and custom outdoor designs. [Open Source]
