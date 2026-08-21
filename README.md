@@ -66,6 +66,7 @@ Tools for calculating material quantities, blueprint measurements, and analyzing
 *   [Google Earth Pro](https://www.google.com/earth/about/versions/#earth-pro) - Free desktop software for detailed satellite imagery, measurements, and site evaluation. [Free]
 *   [HeyBloom Bid Estimator](https://www.heybloom.ai/tools/estimator) - Regional landscape and lawn care cost bid estimator with crowdsourced wage, dump fee, and material cost indexes. [Free]
 *   [HeyBloom Property Size Estimator](https://www.heybloom.ai/tools/free-property-size-estimator) - Satellite-based lot and square footage measurement tool for calculating lawn, mulch, and hardscape areas. [Free]
+*   [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free web calculator for lawn mowing cost estimates by area, rate, and extras. [Free]
 *   [OpenStreetMap](https://www.openstreetmap.org) - Collaborative open-world map, useful for exporting vector geographic data. [Open Source]
 *   [QGIS](https://www.qgis.org) - A free and open-source Geographic Information System (GIS) to create, edit, and visualize geospatial data. [Open Source]
 *   [Stack Takeoff](https://www.stackct.com) - Cloud-based takeoff and estimating tool for measuring blueprints and plans. [Commercial]
