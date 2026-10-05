@@ -27,7 +27,7 @@ All-in-one platforms for scheduling, dispatching, invoicing, routing, and field 
 *   [ArboStar](https://arbostar.com) - Enterprise-grade management platform built specifically for arborists and tree service operations. [Commercial]
 *   [Aspire](https://www.youraspire.com) - Enterprise-grade landscape business management platform for mid-to-large commercial and residential companies. [Commercial]
 *   [CompanyCam](https://companycam.com) - GPS-tagged photo documentation and team collaboration tool built for field contractors. [Freemium]
-*   [FieldServiceScout](https://www.fieldservicescout.com/) - Independent comparison of field service software for landscaping and trade shops evaluating Jobber, Housecall Pro, and peers. [Free]
+*   [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Independent Jobber vs Housecall Pro comparison for landscaping and trade shops evaluating FSM platforms. [Free]
 *   [HeyBloom](https://heybloom.ai) - AI-powered scheduling, marketing, and client manager built for landscaping. Includes a free plan. [Freemium]
 *   [HeyBloom Invoice Generator](https://www.heybloom.ai/tools/free-invoice-generator) - Free browser-based invoice generator for creating print-ready client invoices. [Free]
 *   [Jobber](https://getjobber.com) - All-in-one client management, estimation, scheduling, invoicing, and crew dispatching software. [Commercial]
