@@ -63,6 +63,7 @@ Tools for visual planning, drafting, spatial rendering, and showing designs to c
 Tools for calculating material quantities, blueprint measurements, and analyzing site geography.
 
 *   [Active Takeoff](https://www.activetakeoff.com) - Easy-to-use digital construction takeoff and estimation software. [Commercial]
+*   [CoverCalc Pro Landscape Volume Check](https://lydiatools.github.io/covercalcpro-landscape-quantity-kit/tools/landscape-volume-check.html) - Free, open-source browser calculator for landscape material volume and whole-bag counts; source and offline download are available. [Free, Open Source]
 *   [Google Earth Pro](https://www.google.com/earth/about/versions/#earth-pro) - Free desktop software for detailed satellite imagery, measurements, and site evaluation. [Free]
 *   [HeyBloom Bid Estimator](https://www.heybloom.ai/tools/estimator) - Regional landscape and lawn care cost bid estimator with crowdsourced wage, dump fee, and material cost indexes. [Free]
 *   [HeyBloom Property Size Estimator](https://www.heybloom.ai/tools/free-property-size-estimator) - Satellite-based lot and square footage measurement tool for calculating lawn, mulch, and hardscape areas. [Free]
